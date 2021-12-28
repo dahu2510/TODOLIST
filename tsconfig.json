@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+      "moduleResolution": "node",
+      "module": "ESNEXT",
+      "target": "es6",
+      "jsx": "react",
+      "esModuleInterop": true
+  },
+  "include": [
+    "src",
+    "common.d.ts"//配置的.d.ts文件
+  ]
+}
